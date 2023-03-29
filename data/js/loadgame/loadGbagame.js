@@ -5,6 +5,12 @@ gameTypeID = JSON.parse(savedGameTypeID);
 
 function setGbaGameName() {
 const gameNameTypeID = 
+['data/roms/PokemonSaph.gba', // First ID
+'../Binaries/007.gba', // place in order from first ID // Second ID
+'../Binaries/0994.gba', // Third ID
+'filepath/PokemonSaph.ext', // example format (would be the fourth ID)
+
+]
 ['../gba-host/gba-alt/pokemonsapphire.gba',
 '../gba-host/gba-alt/0994.gba',
 '../gba-host/gba-alt/advancewars.gba',
