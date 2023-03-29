@@ -8,7 +8,7 @@ const gameNameTypeID =
 ['data/roms/PokemonSaph.gba', // First ID
 '../Binaries/007.gba', // place in order from first ID // Second ID
 '../Binaries/0994.gba', // Third ID
-'filepath/PokemonSaph.ext', // example format (would be the fourth ID)
+'gba/data/roms/PokemonSaph.gba', // example format (would be the fourth ID)
 
 ]
 ['../gba-host/gba-alt/pokemonsapphire.gba',
@@ -373,7 +373,7 @@ const gameNameTypeID =
 '../gba-host/gba-alt/zelda_past.gba',
 '../gba-host/gba-alt/007.gba',
 '../gba-host/gba-alt/Pokemon_Emerald_Rogue_EX_(v1.2.1).gba',
-`../gba-host/gba-alt/Pokemon-Radical-Red-v3.1.gba`,
+"../gba-host/gba-alt/Pokemon-Radical-Red-v3.1.gba',
 '../gba-host/gba-alt/Fusion-3-Red-Blue.gba',
 '../gba-host/gba-alt/Pokemon-Sors-Patched.gba',
 '../gba-host/gba-alt/unbound-v2.0.3.2.gba',
